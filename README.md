@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather App 🌦️
 
 A simple and interactive weather app that provides real-time weather updates for any city. It fetches data from the **OpenWeatherMap API** and displays **temperature, wind speed, humidity, pressure, and visibility** for the current day and a **5-day forecast**.
@@ -26,4 +25,3 @@ A simple and interactive weather app that provides real-time weather updates for
 =======
 # weather-app
 A responsive weather dashboard using JavaScript and OpenWeatherMap API
->>>>>>> 192f01dcf18e32b93f8ec075af50dad4b22a007a
