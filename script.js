@@ -210,3 +210,5 @@ const getUserCoordinates = () => {
 // Event listeners
 searchButton.addEventListener("click", getCityCoordinates);
 locationButton.addEventListener("click", getUserCoordinates);
+
+
